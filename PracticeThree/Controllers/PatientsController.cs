@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using UPB.CoreLogic.Models;
 using UPB.CoreLogic.Managers;
 
-namespace UPB.PracticeTwo.Controllers;
+namespace UPB.PracticeThree.Controllers;
 
 [ApiController]
 [Route("patients")]
