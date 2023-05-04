@@ -1,0 +1,36 @@
+2023-05-04 16:13:26.510 -04:00 [INF] Path patients file: ..\Patients.log
+2023-05-04 16:13:26.649 -04:00 [INF] Path log file: ..\Historial.log
+2023-05-04 16:13:27.078 -04:00 [INF] Ejecutando en el ambiente de Development
+2023-05-04 16:13:27.326 -04:00 [INF] Now listening on: http://localhost:5244
+2023-05-04 16:13:27.336 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-04 16:13:27.338 -04:00 [INF] Hosting environment: Development
+2023-05-04 16:13:27.339 -04:00 [INF] Content root path: D:\Universidad\5to SEMESTRE\CERTIFICACION 1\PRACTICE3\PracticeThree\
+2023-05-04 16:13:32.904 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/ - -
+2023-05-04 16:13:32.934 -04:00 [INF] Request succes
+2023-05-04 16:13:32.988 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/ - - - 404 0 - 86.5804ms
+2023-05-04 16:13:37.772 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger - -
+2023-05-04 16:13:37.775 -04:00 [INF] Request succes
+2023-05-04 16:13:37.778 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger - - - 301 0 - 5.9368ms
+2023-05-04 16:13:37.784 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/index.html - -
+2023-05-04 16:13:37.786 -04:00 [INF] Request succes
+2023-05-04 16:13:37.857 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/index.html - - - 200 - text/html;charset=utf-8 72.4740ms
+2023-05-04 16:13:37.880 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui.css - -
+2023-05-04 16:13:37.881 -04:00 [INF] Request succes
+2023-05-04 16:13:37.887 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui-standalone-preset.js - -
+2023-05-04 16:13:37.887 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui-bundle.js - -
+2023-05-04 16:13:37.888 -04:00 [INF] Request succes
+2023-05-04 16:13:37.888 -04:00 [INF] Request succes
+2023-05-04 16:13:37.912 -04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-05-04 16:13:37.912 -04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-05-04 16:13:37.912 -04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-05-04 16:13:37.915 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 28.6397ms
+2023-05-04 16:13:37.915 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 28.6363ms
+2023-05-04 16:13:37.917 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/swagger-ui.css - - - 200 144929 text/css 36.3911ms
+2023-05-04 16:13:38.206 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/v1/swagger.json - -
+2023-05-04 16:13:38.207 -04:00 [INF] Request succes
+2023-05-04 16:13:38.223 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5244/swagger/favicon-32x32.png - -
+2023-05-04 16:13:38.224 -04:00 [INF] Request succes
+2023-05-04 16:13:38.226 -04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-05-04 16:13:38.228 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/favicon-32x32.png - - - 200 628 image/png 4.5258ms
+2023-05-04 16:13:38.311 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5244/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 104.3909ms
+2023-05-04 16:14:09.009 -04:00 [INF] Application is shutting down...
